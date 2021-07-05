@@ -1,0 +1,17 @@
+{
+    "name": "duper/example-project",
+    "description": "an example project for learning packagist",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Duper\\ExampleProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mdupree",
+            "email": "mdupree@acromedia.com"
+        }
+    ],
+    "require": {}
+}
